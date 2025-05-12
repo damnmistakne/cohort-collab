@@ -12,3 +12,6 @@ function multiply(a, b) {
 function devide(a, b) {
   return a / b;
 }
+
+const sum = sum(25, 30);
+console.log(sum);
